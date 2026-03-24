@@ -15,3 +15,5 @@ I am a 2025 B.E. graduate and an aspiring Full Stack Developer. I am passionate 
 ## 📫 Let's Connect
 - LinkedIn: https://www.linkedin.com/in/moseeswaranc/
 - Email: moseesmohan@gmail.com
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Mosees?ext=activity)](https://leetcode.com/u/Mosees/)
