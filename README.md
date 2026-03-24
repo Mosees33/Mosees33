@@ -8,9 +8,10 @@ I am a 2025 B.E. graduate and an aspiring Full Stack Developer. I am passionate 
 - 🏗️ **What I'm Building:** I have developed a Car Rental System and a Java Tic-Tac-Toe game, and I am currently mapping out the architecture for my upcoming MERN task management app, TaskOrbit.
 
 ## 🛠️ Languages & Tools
-- **Core:** Java, JavaScript
-- **Web:** React, Node.js, Express, MongoDB
-- **Tools:** Git, GitHub
+- **Core:** Java, JavaScript, SQL
+- **Web:** HTML, CSS, React, Node.js, Express, MongoDB
+- **Concepts:** REST APIs, CRUD Operations
+- **Tools:** Git, GitHub, Postman, VS Code, IntelliJ IDEA, MySQL Workbench
 
 ## 📫 Let's Connect
 - LinkedIn: https://www.linkedin.com/in/moseeswaranc/
