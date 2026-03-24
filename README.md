@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Moseeswaran 👋
 
-<!--
-**Mosees33/Mosees33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 2025 B.E. graduate and an aspiring Full Stack Developer. I am passionate about writing clean code, solving complex problems, and building intuitive applications. 
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 **Tech Stack:** Proficient in Java and the MERN stack (MongoDB, Express, React, Node.js).
+- 🧠 **Problem Solving:** Actively coding and have solved 300+ LeetCode problems to sharpen my algorithmic thinking.
+- 🏗️ **What I'm Building:** I have developed a Car Rental System and a Java Tic-Tac-Toe game, and I am currently mapping out the architecture for my upcoming MERN task management app, TaskOrbit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools
+- **Core:** Java, JavaScript
+- **Web:** React, Node.js, Express, MongoDB
+- **Tools:** Git, GitHub
+
+## 📫 Let's Connect
+- LinkedIn: https://www.linkedin.com/in/moseeswaranc/
+- Email: moseesmohan@gmail.com
