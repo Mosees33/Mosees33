@@ -1,5 +1,7 @@
 # Hi there, I'm Moseeswaran 👋 | [View My Portfolio](https://portfolio-react-three-livid.vercel.app/)
 
+[Resume](https://drive.google.com/file/d/1FDNgflVq5JhYMtaAkph-8dF1vzXffJf-/view?usp=drive_link)
+
 I am a 2025 B.E. graduate and an aspiring Full Stack Developer. I am passionate about writing clean code, solving complex problems, and building intuitive applications. 
 
 ## 🚀 About Me
